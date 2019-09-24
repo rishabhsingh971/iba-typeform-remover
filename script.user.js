@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Interviewbit Academy Typeform remover
-// @namespace    http://tampermonkey.net/
+// @namespace    rishabhsingh971
 // @version      1.0.0
 // @description  remove annoying typeform from interviewbit academy pages!
 // @author       rishabhsingh971
