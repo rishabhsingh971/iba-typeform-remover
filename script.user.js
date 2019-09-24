@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Interviewbit Academy Typeform remover
-// @namespace    rishabhsingh971
-// @version      1.0.0
 // @description  remove annoying typeform from interviewbit academy pages!
 // @author       rishabhsingh971
+// @namespace    https://github.com/rishabhsingh971
+// @version      1.0.0
+// @downloadURL	 https://github.com/rishabhsingh971/iba-typeform-remover/raw/master/script.user.js
+// @updateURL    https://github.com/rishabhsingh971/iba-typeform-remover/raw/master/script.user.js
 // @match        https://www.interviewbit.com/academy/*
 // @grant        none
 // ==/UserScript==
