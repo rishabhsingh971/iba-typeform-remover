@@ -4,6 +4,7 @@
 // @author       rishabhsingh971
 // @namespace    https://github.com/rishabhsingh971
 // @version      1.0.1
+// @license      MIT
 // @downloadURL	 https://github.com/rishabhsingh971/iba-typeform-remover/raw/master/script.user.js
 // @updateURL    https://github.com/rishabhsingh971/iba-typeform-remover/raw/master/script.user.js
 // @match        https://www.interviewbit.com/academy/*
